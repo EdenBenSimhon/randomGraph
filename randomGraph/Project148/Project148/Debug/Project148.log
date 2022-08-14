@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\eden\source\repos\project148\project148\source.cpp(102): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\eden\source\repos\project148\project148\source.cpp(394): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eden\source\repos\project148\project148\source.cpp(395): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eden\source\repos\project148\project148\source.cpp(398): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\eden\source\repos\project148\project148\source.cpp(399): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\eden\source\repos\project148\project148\source.cpp(397): warning C4101: 'count': unreferenced local variable
+c:\users\eden\source\repos\project148\project148\source.cpp(440): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project148.vcxproj -> C:\Users\Eden\source\repos\Project148\Debug\Project148.exe
